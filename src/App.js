@@ -37,7 +37,7 @@ function App() {
 					Seriously You <i>NEED</i> to try playing with SVG
 				</h1>
 			</section>
-			<svg viewBox="10 0 400 350">
+			<svg viewBox="50 0 400 350">
 				<path
 					id="our-text"
 					fill="#fff"
