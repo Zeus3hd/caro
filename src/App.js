@@ -1,9 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
-import img1 from "./img/cat1.jpeg";
-import img2 from "./img/cat2.jpeg";
-import img3 from "./img/cat3.jpeg";
-import img4 from "./img/cat4.jpeg";
 
 function App() {
 	const [offset, setOffset] = useState(0);
