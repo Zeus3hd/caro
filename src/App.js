@@ -6,7 +6,7 @@ function App() {
 
 	useEffect(() => {
 		window.addEventListener("scroll", () => {
-			setOffset(window.scrollY * -0.4);
+			setOffset(window.scrollY * -0.3);
 		});
 		let titles = document.querySelectorAll(".anim");
 		let observer = new IntersectionObserver(entries => {
